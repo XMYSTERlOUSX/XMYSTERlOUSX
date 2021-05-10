@@ -20,7 +20,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmysterlousx&show_icons=true&locale=en&layout=compact" alt="xmysteriousx" style="width:100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmysterlousx&show_icons=true&locale=en&layout=compact" alt="xmysteriousx" style="float:left">
   </div>
   <div class="column">
     <img src="https://github-readme-stats.vercel.app/api?username=xmysterlousx&show_icons=true&locale=en" alt="xmysteriousx" style="width:100%">
