@@ -22,6 +22,6 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=xmysterlousx&&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=xmysterlousx&count_private=true&hide=contribs,prs,issues,stars&show_icons=true&theme=radical" width="48%" />
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=xmysterlousx&count_private=true&hide=contribs,stars&show_icons=true&theme=radical" width="48%" />
 </div>
 </div>  
