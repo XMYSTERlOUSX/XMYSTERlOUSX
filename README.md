@@ -22,5 +22,5 @@
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=xmysterlousx&&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmysterlousx&show_icons=true&locale=en&hide=shell,dockerfile&theme=radical"" width="48%" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmysterlousx&show_icons=true&locale=en&hide=shell,dockerfile&theme=radical"" width="48%" height="164" />
 </div>  
