@@ -29,5 +29,5 @@
     <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=everythingsuckz&show_icons=true&theme=radical" width="48%" />
 </div>  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EverythingSuckz&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
+    <img src=""https://github-readme-stats.vercel.app/api/top-langs?username=xmysterlousx&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
 </div> 
