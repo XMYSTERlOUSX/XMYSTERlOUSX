@@ -21,3 +21,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmysterlousx&show_icons=true&locale=en&layout=compact" alt="xmysterlousx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xmysterlousx&" alt="xmysterlousx" /></p>
+
+<h2 align="center">📈 My Github Stats! </h2>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xmysterlousx&&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
+    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=everythingsuckz&show_icons=true&theme=radical" width="48%" />
+</div>  
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EverythingSuckz&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
+</div> 
