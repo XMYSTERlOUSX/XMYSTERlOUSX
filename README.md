@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, /h1>
+<h1 align="center">Hi 👋, </h1>
 <h1 align="center">I'm ꧁✪≋✘_.мүsтεяισυs_.✘≋✪꧂</h1>
 
 <h3 align="center">A mystery to be solved!</h3>
