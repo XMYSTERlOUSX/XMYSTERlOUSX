@@ -26,5 +26,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmysterlousx&show_icons=true&locale=en&hide=shell,JavaScript,dockerfile&theme=radical" width="48%" />
 </div>  
 <div align="center">
-  <img src="https://bad-apple-github-readme.vercel.app/api?username=xmysterlousx&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&theme=radical" width="49%">
+  <img src="https://bad-apple-github-readme.vercel.app/api?username=xmysterlousx&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=radical" width="49%">
 </div> 
